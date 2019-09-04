@@ -1,0 +1,317 @@
+2019-09-03 18:34:21 INFO  BasePage:50-[[ChromeDriver: chrome on XP (e0f5c6dd1f65335fea3a8043f99da6ff)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 18:34:23 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 18:34:23 INFO  BasePage:50-[[ChromeDriver: chrome on XP (e0f5c6dd1f65335fea3a8043f99da6ff)] -> id: si_popup_email] Elemenet present
+2019-09-03 18:34:24 INFO  BasePage:34-[[ChromeDriver: chrome on XP (e0f5c6dd1f65335fea3a8043f99da6ff)] -> id: si_popup_email] found and entered successfully
+2019-09-03 18:34:24 INFO  BasePage:50-[[ChromeDriver: chrome on XP (e0f5c6dd1f65335fea3a8043f99da6ff)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 18:34:24 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 18:34:24 INFO  BasePage:50-[[ChromeDriver: chrome on XP (e0f5c6dd1f65335fea3a8043f99da6ff)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 18:34:24 INFO  BasePage:61-Element found and clicked
+2019-09-03 18:34:24 ERROR BaseTest:41-TC_01_loginToEdureka failedjava.lang.NullPointerException
+2019-09-03 19:00:47 INFO  BasePage:50-[[ChromeDriver: chrome on XP (13b80d6bbdb1e32ae9f669926dfb8c9d)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 19:00:47 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 19:00:47 INFO  BasePage:50-[[ChromeDriver: chrome on XP (13b80d6bbdb1e32ae9f669926dfb8c9d)] -> id: si_popup_email] Elemenet present
+2019-09-03 19:00:48 INFO  BasePage:34-[[ChromeDriver: chrome on XP (13b80d6bbdb1e32ae9f669926dfb8c9d)] -> id: si_popup_email] found and entered successfully
+2019-09-03 19:00:48 INFO  BasePage:50-[[ChromeDriver: chrome on XP (13b80d6bbdb1e32ae9f669926dfb8c9d)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 19:00:48 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 19:00:48 INFO  BasePage:50-[[ChromeDriver: chrome on XP (13b80d6bbdb1e32ae9f669926dfb8c9d)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 19:00:49 INFO  BasePage:61-Element found and clicked
+2019-09-03 19:00:49 ERROR BaseTest:41-TC_01_loginToEdureka failedjava.lang.NullPointerException
+2019-09-03 19:02:31 ERROR BasePage:35-Element not found
+2019-09-03 19:03:02 ERROR BasePage:49-Element not found.
+2019-09-03 19:03:32 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 19:04:02 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 19:04:02 INFO  BaseTest:26-TC_02_NavigateToBlogsPage passed
+2019-09-03 19:40:29 INFO  BasePage:50-[[ChromeDriver: chrome on XP (758482ebcf839970e1000d1c1379c6bb)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 19:40:33 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 19:40:33 INFO  BasePage:50-[[ChromeDriver: chrome on XP (758482ebcf839970e1000d1c1379c6bb)] -> id: si_popup_email] Elemenet present
+2019-09-03 19:40:34 INFO  BasePage:34-[[ChromeDriver: chrome on XP (758482ebcf839970e1000d1c1379c6bb)] -> id: si_popup_email] found and entered successfully
+2019-09-03 19:40:34 INFO  BasePage:50-[[ChromeDriver: chrome on XP (758482ebcf839970e1000d1c1379c6bb)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 19:40:34 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 19:40:34 INFO  BasePage:50-[[ChromeDriver: chrome on XP (758482ebcf839970e1000d1c1379c6bb)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 19:40:35 INFO  BasePage:61-Element found and clicked
+2019-09-03 19:40:35 ERROR BaseTest:45-TC_01_loginToEdureka failedjava.lang.NullPointerException
+2019-09-03 19:42:30 ERROR BasePage:35-Element not found
+2019-09-03 19:43:00 ERROR BasePage:49-Element not found.
+2019-09-03 19:43:30 INFO  BasePage:50-[[ChromeDriver: chrome on XP (5fc8c2f8c4fd2fdd1c1598fad171ed6a)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 19:43:31 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 19:43:35 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 19:43:36 INFO  BasePage:50-[[ChromeDriver: chrome on XP (5fc8c2f8c4fd2fdd1c1598fad171ed6a)] -> id: si_popup_email] Elemenet present
+2019-09-03 19:43:36 INFO  BasePage:34-[[ChromeDriver: chrome on XP (5fc8c2f8c4fd2fdd1c1598fad171ed6a)] -> id: si_popup_email] found and entered successfully
+2019-09-03 19:43:36 INFO  BasePage:50-[[ChromeDriver: chrome on XP (5fc8c2f8c4fd2fdd1c1598fad171ed6a)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 19:43:36 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 19:43:36 INFO  BasePage:50-[[ChromeDriver: chrome on XP (5fc8c2f8c4fd2fdd1c1598fad171ed6a)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 19:43:37 INFO  BasePage:61-Element found and clicked
+2019-09-03 19:43:37 ERROR BaseTest:45-TC_01_loginToEdureka failedjava.lang.NullPointerException
+2019-09-03 19:44:01 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 19:44:01 INFO  BaseTest:61-TC_02_NavigateToBlogsPage passed
+2019-09-03 19:44:36 ERROR BasePage:35-Element not found
+2019-09-03 19:45:07 ERROR BasePage:49-Element not found.
+2019-09-03 19:45:37 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 19:46:07 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 19:46:07 INFO  BaseTest:61-TC_02_NavigateToBlogsPage passed
+2019-09-03 19:49:30 INFO  BasePage:50-[[ChromeDriver: chrome on XP (cc9e70f709098b5cb8f038a1a8e42fb5)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 19:49:33 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 19:49:33 INFO  BasePage:50-[[ChromeDriver: chrome on XP (cc9e70f709098b5cb8f038a1a8e42fb5)] -> id: si_popup_email] Elemenet present
+2019-09-03 19:49:34 INFO  BasePage:34-[[ChromeDriver: chrome on XP (cc9e70f709098b5cb8f038a1a8e42fb5)] -> id: si_popup_email] found and entered successfully
+2019-09-03 19:49:34 INFO  BasePage:50-[[ChromeDriver: chrome on XP (cc9e70f709098b5cb8f038a1a8e42fb5)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 19:49:34 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 19:49:34 INFO  BasePage:50-[[ChromeDriver: chrome on XP (cc9e70f709098b5cb8f038a1a8e42fb5)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 19:49:34 INFO  BasePage:61-Element found and clicked
+2019-09-03 19:49:34 ERROR BaseTest:45-TC_01_loginToEdureka failedjava.lang.NullPointerException
+2019-09-03 19:56:26 INFO  BasePage:50-[[ChromeDriver: chrome on XP (86d6b2b55fb6764593948411b410392f)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 19:56:26 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 19:56:27 INFO  BasePage:50-[[ChromeDriver: chrome on XP (86d6b2b55fb6764593948411b410392f)] -> id: si_popup_email] Elemenet present
+2019-09-03 19:56:27 INFO  BasePage:34-[[ChromeDriver: chrome on XP (86d6b2b55fb6764593948411b410392f)] -> id: si_popup_email] found and entered successfully
+2019-09-03 19:56:27 INFO  BasePage:50-[[ChromeDriver: chrome on XP (86d6b2b55fb6764593948411b410392f)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 19:56:28 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 19:56:28 INFO  BasePage:50-[[ChromeDriver: chrome on XP (86d6b2b55fb6764593948411b410392f)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 19:56:28 INFO  BasePage:61-Element found and clicked
+2019-09-03 19:56:28 ERROR BaseTest:45-TC_01_loginToEdureka failedjava.lang.NullPointerException
+2019-09-03 19:57:28 ERROR BasePage:35-Element not found
+2019-09-03 19:57:59 ERROR BasePage:49-Element not found.
+2019-09-03 19:58:29 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 19:59:00 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 19:59:00 INFO  BaseTest:61-TC_02_NavigateToBlogsPage passed
+2019-09-03 20:06:37 INFO  BasePage:50-[[ChromeDriver: chrome on XP (a53bca77ae7038597055ef72cc593a5f)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:06:38 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 20:06:38 INFO  BasePage:50-[[ChromeDriver: chrome on XP (a53bca77ae7038597055ef72cc593a5f)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:06:39 INFO  BasePage:34-[[ChromeDriver: chrome on XP (a53bca77ae7038597055ef72cc593a5f)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:06:39 INFO  BasePage:50-[[ChromeDriver: chrome on XP (a53bca77ae7038597055ef72cc593a5f)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:06:40 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:06:40 INFO  BasePage:50-[[ChromeDriver: chrome on XP (a53bca77ae7038597055ef72cc593a5f)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:06:40 INFO  BasePage:61-Element found and clicked
+2019-09-03 20:06:40 ERROR BaseTest:45-TC_01_loginToEdureka failedjava.lang.NullPointerException
+2019-09-03 20:07:45 ERROR BasePage:35-Element not found
+2019-09-03 20:08:15 ERROR BasePage:49-Element not found.
+2019-09-03 20:08:45 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 20:09:16 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 20:09:16 INFO  BaseTest:61-TC_02_NavigateToBlogsPage passed
+2019-09-03 20:09:41 INFO  BasePage:50-[[ChromeDriver: chrome on XP (0130185dc4cd05de5c9c468892bdeeae)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:09:42 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 20:09:42 INFO  BasePage:50-[[ChromeDriver: chrome on XP (0130185dc4cd05de5c9c468892bdeeae)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:09:43 INFO  BasePage:34-[[ChromeDriver: chrome on XP (0130185dc4cd05de5c9c468892bdeeae)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:09:43 INFO  BasePage:50-[[ChromeDriver: chrome on XP (0130185dc4cd05de5c9c468892bdeeae)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:09:43 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:09:44 INFO  BasePage:50-[[ChromeDriver: chrome on XP (0130185dc4cd05de5c9c468892bdeeae)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:09:44 INFO  BasePage:61-Element found and clicked
+2019-09-03 20:09:44 ERROR BaseTest:45-TC_01_loginToEdureka failedjava.lang.NullPointerException
+2019-09-03 20:10:16 ERROR BasePage:35-Element not found
+2019-09-03 20:10:28 ERROR BasePage:49-Element not found.
+2019-09-03 20:10:38 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 20:15:18 INFO  BasePage:50-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:15:19 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 20:15:19 INFO  BasePage:50-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:15:20 INFO  BasePage:34-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:15:20 INFO  BasePage:50-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:15:20 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:15:20 INFO  BasePage:50-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:15:21 INFO  BasePage:61-Element found and clicked
+2019-09-03 20:15:51 ERROR BasePage:39-null and https://learning.edureka.co/mycourses are not the same.
+2019-09-03 20:15:51 INFO  BasePage:50-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:15:52 ERROR BasePage:32-SignIn Button not present.
+2019-09-03 20:15:52 INFO  BasePage:50-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:15:52 INFO  BasePage:34-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:15:53 INFO  BasePage:50-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:15:53 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:15:53 INFO  BasePage:50-[[ChromeDriver: chrome on XP (b94f0d5936d278db78d83366ef32d767)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:15:53 INFO  BasePage:61-Element found and clicked
+2019-09-03 20:17:32 INFO  BasePage:50-[[ChromeDriver: chrome on XP (610f17101f02ffa98c2a73ccdc21aa9f)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:17:36 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 20:17:36 INFO  BasePage:50-[[ChromeDriver: chrome on XP (610f17101f02ffa98c2a73ccdc21aa9f)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:17:37 INFO  BasePage:34-[[ChromeDriver: chrome on XP (610f17101f02ffa98c2a73ccdc21aa9f)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:17:37 INFO  BasePage:50-[[ChromeDriver: chrome on XP (610f17101f02ffa98c2a73ccdc21aa9f)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:17:37 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:17:38 INFO  BasePage:50-[[ChromeDriver: chrome on XP (610f17101f02ffa98c2a73ccdc21aa9f)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:17:38 INFO  BasePage:61-Element found and clicked
+2019-09-03 20:18:14 ERROR BasePage:39-null and https://learning.edureka.co/mycourses are not the same.
+2019-09-03 20:18:44 ERROR BasePage:32-SignIn Button not present.
+2019-09-03 20:21:46 INFO  BasePage:50-[[ChromeDriver: chrome on XP (806d3e2e413d7fc427db76b7816cab86)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:21:48 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 20:21:48 INFO  BasePage:50-[[ChromeDriver: chrome on XP (806d3e2e413d7fc427db76b7816cab86)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:21:48 INFO  BasePage:34-[[ChromeDriver: chrome on XP (806d3e2e413d7fc427db76b7816cab86)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:21:48 INFO  BasePage:50-[[ChromeDriver: chrome on XP (806d3e2e413d7fc427db76b7816cab86)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:21:49 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:21:49 INFO  BasePage:50-[[ChromeDriver: chrome on XP (806d3e2e413d7fc427db76b7816cab86)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:21:49 INFO  BasePage:61-Element found and clicked
+2019-09-03 20:22:24 ERROR BasePage:39-null and https://learning.edureka.co/mycourses are not the same.
+2019-09-03 20:31:00 INFO  BasePage:50-[[ChromeDriver: chrome on XP (55e2fa5e9ed83c14887a05094434a2f1)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:31:01 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 20:31:02 INFO  BasePage:50-[[ChromeDriver: chrome on XP (55e2fa5e9ed83c14887a05094434a2f1)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:31:02 INFO  BasePage:34-[[ChromeDriver: chrome on XP (55e2fa5e9ed83c14887a05094434a2f1)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:31:02 INFO  BasePage:50-[[ChromeDriver: chrome on XP (55e2fa5e9ed83c14887a05094434a2f1)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:31:02 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:31:02 INFO  BasePage:50-[[ChromeDriver: chrome on XP (55e2fa5e9ed83c14887a05094434a2f1)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:31:03 INFO  BasePage:61-Element found and clicked
+2019-09-03 20:31:48 ERROR BasePage:39-null and https://learning.edureka.co/mycourses are not the same.
+2019-09-03 20:32:39 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']' Element not found
+2019-09-03 20:32:49 ERROR BasePage:32-SignIn Button not present.
+2019-09-03 20:33:41 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' Element not found
+2019-09-03 20:34:01 ERROR BasePage:38-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' element not  found
+2019-09-03 20:34:47 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_passwd' Element not found
+2019-09-03 20:34:51 ERROR BasePage:52-Element not found
+2019-09-03 20:36:31 INFO  BasePage:50-[[ChromeDriver: chrome on XP (3716b8c11fa16d04de53f82aebd04f53)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:36:31 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 20:36:31 INFO  BasePage:50-[[ChromeDriver: chrome on XP (3716b8c11fa16d04de53f82aebd04f53)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:36:32 INFO  BasePage:34-[[ChromeDriver: chrome on XP (3716b8c11fa16d04de53f82aebd04f53)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:36:32 INFO  BasePage:50-[[ChromeDriver: chrome on XP (3716b8c11fa16d04de53f82aebd04f53)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:36:32 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:36:33 INFO  BasePage:50-[[ChromeDriver: chrome on XP (3716b8c11fa16d04de53f82aebd04f53)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:36:33 INFO  BasePage:61-Element found and clicked
+2019-09-03 20:37:11 ERROR BasePage:39-null and https://learning.edureka.co/mycourses are not the same.
+2019-09-03 20:38:03 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']' Element not found
+2019-09-03 20:38:13 ERROR BasePage:32-SignIn Button not present.
+2019-09-03 20:44:49 INFO  BasePage:50-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:44:49 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 20:44:50 INFO  BasePage:50-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:44:50 INFO  BasePage:34-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:44:50 INFO  BasePage:50-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:44:50 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:44:50 INFO  BasePage:50-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:44:51 INFO  BasePage:61-Element found and clicked
+2019-09-03 20:44:51 INFO  BasePage:50-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 20:44:51 ERROR BasePage:32-SignIn Button not present.
+2019-09-03 20:44:51 INFO  BasePage:50-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> id: si_popup_email] Elemenet present
+2019-09-03 20:44:51 INFO  BasePage:34-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> id: si_popup_email] found and entered successfully
+2019-09-03 20:44:51 INFO  BasePage:50-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 20:44:51 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 20:44:52 INFO  BasePage:50-[[ChromeDriver: chrome on XP (70731499219ae3e3d36d2a6e8efbff5e)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 20:44:52 ERROR BasePage:65-Element not found
+2019-09-03 20:45:37 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']' Element not found
+2019-09-03 20:45:47 ERROR BasePage:32-SignIn Button not present.
+2019-09-03 20:46:39 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' Element not found
+2019-09-03 20:46:59 ERROR BasePage:38-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' element not  found
+2019-09-03 20:47:50 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_passwd' Element not found
+2019-09-03 20:48:12 ERROR BasePage:52-Element not found
+2019-09-03 20:49:03 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='clik_btn_log btn-block']' Element not found
+2019-09-03 20:49:13 ERROR BasePage:65-Element not found
+2019-09-03 20:49:13 INFO  BaseTest:41-TC_01_loginToEdureka passed
+2019-09-03 20:50:35 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'Community')]' Element not found
+2019-09-03 20:50:45 ERROR BasePage:35-Element not found
+2019-09-03 20:50:45 INFO  BasePage:50-[[ChromeDriver: chrome on XP (b0c9ea8a5c067ce88c437e8d9f5685ab)] -> xpath: //a[contains(@href,'blog')]] Elemenet present
+2019-09-03 20:50:45 ERROR BasePage:49-Element not found.
+2019-09-03 20:51:36 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='https://www.edureka.co/blog/selenium-tutorial'][1]' Element not found
+2019-09-03 20:51:46 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 20:52:17 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Selenium interview questions')' Element not found
+2019-09-03 20:52:17 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 20:52:17 INFO  BaseTest:61-TC_02_NavigateToBlogsPage passed
+2019-09-03 21:02:15 INFO  BasePage:50-[[ChromeDriver: chrome on XP (29e7c07ae6bf3d8983618d4155f19df6)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 21:02:18 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 21:02:18 INFO  BasePage:50-[[ChromeDriver: chrome on XP (29e7c07ae6bf3d8983618d4155f19df6)] -> id: si_popup_email] Elemenet present
+2019-09-03 21:02:19 INFO  BasePage:34-[[ChromeDriver: chrome on XP (29e7c07ae6bf3d8983618d4155f19df6)] -> id: si_popup_email] found and entered successfully
+2019-09-03 21:02:19 INFO  BasePage:50-[[ChromeDriver: chrome on XP (29e7c07ae6bf3d8983618d4155f19df6)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 21:02:19 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 21:02:19 INFO  BasePage:50-[[ChromeDriver: chrome on XP (29e7c07ae6bf3d8983618d4155f19df6)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 21:02:19 INFO  BasePage:61-Element found and clicked
+2019-09-03 21:02:56 ERROR BasePage:39-null and MyClassroom - Edureka are not the same.
+2019-09-03 21:03:48 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']' Element not found
+2019-09-03 21:03:58 ERROR BasePage:32-SignIn Button not present.
+2019-09-03 21:04:49 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' Element not found
+2019-09-03 21:05:09 ERROR BasePage:38-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' element not  found
+2019-09-03 21:06:00 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_passwd' Element not found
+2019-09-03 21:06:10 ERROR BasePage:52-Element not found
+2019-09-03 21:07:01 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='clik_btn_log btn-block']' Element not found
+2019-09-03 21:07:11 ERROR BasePage:65-Element not found
+2019-09-03 21:10:05 INFO  BasePage:50-[[ChromeDriver: chrome on XP (2df8faae9564ac7eb04d2c83a27c56c1)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 21:10:08 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 21:10:08 INFO  BasePage:50-[[ChromeDriver: chrome on XP (2df8faae9564ac7eb04d2c83a27c56c1)] -> id: si_popup_email] Elemenet present
+2019-09-03 21:10:08 INFO  BasePage:34-[[ChromeDriver: chrome on XP (2df8faae9564ac7eb04d2c83a27c56c1)] -> id: si_popup_email] found and entered successfully
+2019-09-03 21:10:08 INFO  BasePage:50-[[ChromeDriver: chrome on XP (2df8faae9564ac7eb04d2c83a27c56c1)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 21:10:09 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 21:10:09 INFO  BasePage:50-[[ChromeDriver: chrome on XP (2df8faae9564ac7eb04d2c83a27c56c1)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 21:10:09 INFO  BasePage:61-Element found and clicked
+2019-09-03 21:11:36 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']' Element not found
+2019-09-03 21:11:46 ERROR BasePage:32-SignIn Button not present.
+2019-09-03 21:12:37 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' Element not found
+2019-09-03 21:12:57 ERROR BasePage:38-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' element not  found
+2019-09-03 21:13:48 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_passwd' Element not found
+2019-09-03 21:13:58 ERROR BasePage:52-Element not found
+2019-09-03 21:14:50 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='clik_btn_log btn-block']' Element not found
+2019-09-03 21:15:00 ERROR BasePage:65-Element not found
+2019-09-03 21:15:51 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']' Element not found
+2019-09-03 21:16:01 ERROR BasePage:32-SignIn Button not present.
+2019-09-03 21:16:52 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' Element not found
+2019-09-03 21:17:12 ERROR BasePage:38-Proxy element for: DefaultElementLocator 'By.id: si_popup_email' element not  found
+2019-09-03 21:18:04 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.id: si_popup_passwd' Element not found
+2019-09-03 21:18:14 ERROR BasePage:52-Element not found
+2019-09-03 21:19:05 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='clik_btn_log btn-block']' Element not found
+2019-09-03 21:19:15 ERROR BasePage:65-Element not found
+2019-09-03 21:19:15 INFO  BaseTest:42-TC_01_loginToEdureka passed
+2019-09-03 21:20:37 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'Community')]' Element not found
+2019-09-03 21:20:47 ERROR BasePage:35-Element not found
+2019-09-03 21:20:47 INFO  BasePage:50-[[ChromeDriver: chrome on XP (3764f1d1da38139361a4f40d3e8b55c2)] -> xpath: //a[contains(@href,'blog')]] Elemenet present
+2019-09-03 21:20:48 INFO  BasePage:45-Element Present and clicked successfully
+2019-09-03 21:21:39 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='https://www.edureka.co/blog/selenium-tutorial'][1]' Element not found
+2019-09-03 21:21:49 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 21:22:19 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Selenium interview questions')' Element not found
+2019-09-03 21:22:19 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 21:22:19 INFO  BaseTest:62-TC_02_NavigateToBlogsPage passed
+2019-09-03 22:24:33 INFO  BasePage:50-[[ChromeDriver: chrome on XP (484aa13a3f8d3c1cad2d97325c00db87)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 22:25:08 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 22:31:58 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d5d95765cb7c6ac056f35b2af3104f2d)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 22:31:59 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 22:31:59 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d5d95765cb7c6ac056f35b2af3104f2d)] -> id: si_popup_email] Elemenet present
+2019-09-03 22:31:59 INFO  BasePage:34-[[ChromeDriver: chrome on XP (d5d95765cb7c6ac056f35b2af3104f2d)] -> id: si_popup_email] found and entered successfully
+2019-09-03 22:31:59 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d5d95765cb7c6ac056f35b2af3104f2d)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 22:31:59 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 22:32:00 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d5d95765cb7c6ac056f35b2af3104f2d)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 22:32:00 INFO  BasePage:61-Element found and clicked
+2019-09-03 22:32:36 ERROR BasePage:39-null and https://learning.edureka.co/mycourses are not the same.
+2019-09-03 22:32:36 INFO  BaseTest:42-TC_01_loginToEdureka passed
+2019-09-03 22:33:57 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'Community')]' Element not found
+2019-09-03 22:34:07 ERROR BasePage:35-Element not found
+2019-09-03 22:34:07 INFO  BasePage:50-[[ChromeDriver: chrome on XP (0865fad8f03ebe2a56121585680696c6)] -> xpath: //a[contains(@href,'blog')]] Elemenet present
+2019-09-03 22:34:08 INFO  BasePage:45-Element Present and clicked successfully
+2019-09-03 22:34:58 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='https://www.edureka.co/blog/selenium-tutorial'][1]' Element not found
+2019-09-03 22:34:58 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 22:35:29 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 22:35:29 INFO  BaseTest:62-TC_02_NavigateToBlogsPage passed
+2019-09-03 22:40:11 INFO  BasePage:50-[[ChromeDriver: chrome on XP (eb3c0c793348b40016e0f0773410e2cc)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 22:40:17 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 22:40:17 INFO  BasePage:50-[[ChromeDriver: chrome on XP (eb3c0c793348b40016e0f0773410e2cc)] -> id: si_popup_email] Elemenet present
+2019-09-03 22:40:17 INFO  BasePage:34-[[ChromeDriver: chrome on XP (eb3c0c793348b40016e0f0773410e2cc)] -> id: si_popup_email] found and entered successfully
+2019-09-03 22:40:18 INFO  BasePage:50-[[ChromeDriver: chrome on XP (eb3c0c793348b40016e0f0773410e2cc)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 22:40:18 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 22:40:18 INFO  BasePage:50-[[ChromeDriver: chrome on XP (eb3c0c793348b40016e0f0773410e2cc)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 22:40:18 INFO  BasePage:61-Element found and clicked
+2019-09-03 22:40:18 INFO  BaseTest:62-TC_01_loginToEdureka passed
+2019-09-03 22:41:27 ERROR BasePage:35-Element not found
+2019-09-03 22:41:37 ERROR BasePage:49-Element not found.
+2019-09-03 22:41:49 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 22:42:01 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 22:42:01 INFO  BaseTest:33-TC_02_NavigateToBlogsPage passed
+2019-09-03 22:51:13 INFO  BasePage:50-[[ChromeDriver: chrome on XP (ad8bcfe9d90fd9ef5fbec0064342e952)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 22:51:14 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 22:51:14 INFO  BasePage:50-[[ChromeDriver: chrome on XP (ad8bcfe9d90fd9ef5fbec0064342e952)] -> id: si_popup_email] Elemenet present
+2019-09-03 22:51:15 INFO  BasePage:34-[[ChromeDriver: chrome on XP (ad8bcfe9d90fd9ef5fbec0064342e952)] -> id: si_popup_email] found and entered successfully
+2019-09-03 22:51:15 INFO  BasePage:50-[[ChromeDriver: chrome on XP (ad8bcfe9d90fd9ef5fbec0064342e952)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 22:51:15 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 22:51:15 INFO  BasePage:50-[[ChromeDriver: chrome on XP (ad8bcfe9d90fd9ef5fbec0064342e952)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 22:51:15 INFO  BasePage:61-Element found and clicked
+2019-09-03 22:51:15 INFO  BaseTest:69-TC_01_loginToEdureka passed
+2019-09-03 22:51:53 INFO  BasePage:50-[[ChromeDriver: chrome on XP (ad8bcfe9d90fd9ef5fbec0064342e952)] -> xpath: //button[contains(text(),'Community')]] Elemenet present
+2019-09-03 22:51:53 INFO  BasePage:31-Element found and clicked successfully
+2019-09-03 22:51:53 INFO  BasePage:50-[[ChromeDriver: chrome on XP (ad8bcfe9d90fd9ef5fbec0064342e952)] -> xpath: //a[contains(@href,'blog')]] Elemenet present
+2019-09-03 22:52:17 INFO  BasePage:45-Element Present and clicked successfully
+2019-09-03 22:53:18 ERROR BasePage:54-[[ChromeDriver: chrome on XP (ad8bcfe9d90fd9ef5fbec0064342e952)] -> xpath: //a[@href='https://www.edureka.co/blog/selenium-tutorial'][1]] Element not found
+2019-09-03 22:54:18 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 22:55:19 ERROR BasePage:54-Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Selenium interview questions')' Element not found
+2019-09-03 22:55:19 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 22:55:19 INFO  BaseTest:40-TC_02_NavigateToBlogsPage passed
+2019-09-03 23:25:53 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d057a5719418e1d056ebccde17dec645)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']] Elemenet present
+2019-09-03 23:25:53 INFO  BasePage:28-Sign In Button clicked Successfully
+2019-09-03 23:25:53 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d057a5719418e1d056ebccde17dec645)] -> id: si_popup_email] Elemenet present
+2019-09-03 23:25:54 INFO  BasePage:34-[[ChromeDriver: chrome on XP (d057a5719418e1d056ebccde17dec645)] -> id: si_popup_email] found and entered successfully
+2019-09-03 23:25:54 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d057a5719418e1d056ebccde17dec645)] -> id: si_popup_passwd] Elemenet present
+2019-09-03 23:25:54 INFO  BasePage:48-Password element found and entered successfully
+2019-09-03 23:25:54 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d057a5719418e1d056ebccde17dec645)] -> xpath: //button[@class='clik_btn_log btn-block']] Elemenet present
+2019-09-03 23:25:54 INFO  BasePage:61-Element found and clicked
+2019-09-03 23:25:54 INFO  BaseTest:68-TC_01_loginToEdureka passed
+2019-09-03 23:26:58 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d057a5719418e1d056ebccde17dec645)] -> xpath: //button[contains(text(),'Community')]] Elemenet present
+2019-09-03 23:26:58 INFO  BasePage:31-Element found and clicked successfully
+2019-09-03 23:26:58 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d057a5719418e1d056ebccde17dec645)] -> xpath: //a[contains(@href,'blog')]] Elemenet present
+2019-09-03 23:27:10 INFO  BasePage:45-Element Present and clicked successfully
+2019-09-03 23:27:10 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d057a5719418e1d056ebccde17dec645)] -> xpath: //*[@id='menu-item-97007']] Elemenet present
+2019-09-03 23:27:10 ERROR BasePage:35-Selenium blogs not found.
+2019-09-03 23:27:10 INFO  BasePage:50-[[ChromeDriver: chrome on XP (d057a5719418e1d056ebccde17dec645)] -> xpath: //*[@id='menu-item-97008']] Elemenet present
+2019-09-03 23:27:10 ERROR BasePage:49-Selenium interview questions link not found.
+2019-09-03 23:27:10 INFO  BaseTest:39-TC_02_NavigateToBlogsPage passed

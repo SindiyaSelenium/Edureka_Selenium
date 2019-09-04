@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Craftsvilla" duration-ms="142983" started-at="2019-09-03T17:54:48Z" finished-at="2019-09-03T17:57:11Z">
+    <groups>
+    </groups>
+    <test name="Craftsvilla" duration-ms="142983" started-at="2019-09-03T17:54:48Z" finished-at="2019-09-03T17:57:11Z">
+      <class name="co.in.craftsvilla.testscripts.CaseStudy9">
+        <test-method status="PASS" signature="launchApplication(java.lang.String)[pri:0, instance:co.in.craftsvilla.testscripts.CaseStudy9@3e6358]" name="launchApplication" is-config="true" duration-ms="58776" started-at="2019-09-03T23:24:48Z" finished-at="2019-09-03T23:25:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="TC1_TC2()[pri:0, instance:co.in.craftsvilla.testscripts.CaseStudy9@3e6358]" name="TC1_TC2" duration-ms="83335" started-at="2019-09-03T23:25:47Z" finished-at="2019-09-03T23:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_TC2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:co.in.craftsvilla.testscripts.CaseStudy9@3e6358]" name="closeBrowser" is-config="true" duration-ms="779" started-at="2019-09-03T23:27:10Z" finished-at="2019-09-03T23:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- co.in.craftsvilla.testscripts.CaseStudy9 -->
+    </test> <!-- Craftsvilla -->
+  </suite> <!-- Craftsvilla -->
+</testng-results>

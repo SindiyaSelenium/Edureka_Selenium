@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Craftsvilla">
+<listeners>
+<listener class-name ="co.in.craftsvilla.generic.ITest"> </listener>
+</listeners>
+<test name="Craftsvilla">
+<parameter name = "browser" value ="CHROME"></parameter>
+<classes>
+<class name ="co.in.craftsvilla.testscripts.CaseStudy9"></class>
+<!-- <class name ="co.in.craftsvilla.testscripts.EdurekaNavigateToBlogs"></class> -->
+</classes>
+</test>
+</suite>

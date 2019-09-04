@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Craftsvilla]">
+  <parameter name="browser" value="CHROME"/>
+  <listeners>
+    <listener class-name="co.in.craftsvilla.generic.ITest"/>
+  </listeners>
+  <test name="Craftsvilla">
+    <parameter name="browser" value="CHROME"/>
+    <classes>
+      <class name="co.in.craftsvilla.testscripts.CaseStudy9"/>
+    </classes>
+  </test> <!-- Craftsvilla -->
+</suite> <!-- Failed suite [Craftsvilla] -->
